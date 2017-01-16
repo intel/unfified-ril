@@ -1,0 +1,2 @@
+/repo/emarmou/work/uril2/build/CMakeFiles/uril_client.dir
+/repo/emarmou/work/uril2/build/CMakeFiles/uril_service.dir
